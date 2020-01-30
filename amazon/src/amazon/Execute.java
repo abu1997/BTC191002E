@@ -8,7 +8,10 @@ public class Execute {
 
 	public void a() {
 		System.out.println("a");
+	}
 		
+		public void s() {
+			System.out.println("a");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
