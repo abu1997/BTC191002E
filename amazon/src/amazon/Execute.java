@@ -6,6 +6,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Execute {
 
+	public void a() {
+		System.out.println("a");
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "/Users/abujunelsiddiq/Downloads/chromedriver");
